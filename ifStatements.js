@@ -42,7 +42,6 @@ if (weather === "cold") {
   console.log("Good luck with your buisness");
 }
 
-
 // ##################
 // Using the numQuarters variable defined below, determine
 // if you have enough money to buy a gumball. A gumball costs
@@ -63,7 +62,6 @@ if(numQuarters >=2){
 } else{console.log("I don't have enough money for a gumball");
 };
  
-
 // #####################
 // Using the variables defined below, write code that will tell you
 // if you have the ingredients to make a pizza. A pizza requires 

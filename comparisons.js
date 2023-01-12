@@ -50,7 +50,6 @@ console.log("Is numberStudents less than or equal to 20? ", numberStudents <= 20
 // this should log: true
 console.log("Is numberStudents less than or equal to 21? ", numberStudents >= 21);
 
-
 // #-------------------
 // PART 2: Articulating what you are doing
 // #-------------------
@@ -83,7 +82,6 @@ console.log(attendees !== meals);
 // YOU DO: Explain.
 // Varieble named attendees assigned = to number 9; the second varieble is assigned = to number 8; the print out or 
 // consel.log (number of attendees are not strictly equal to numer of meals);
-
 
 // #-------------------
 // PART 3: Logical Operators
